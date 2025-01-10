@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I’m **LolgamerHD** 🎮, a passionate developer 
 
 Here are some projects I’m proud of (click the images to explore!):  
 
-[![Community Templates](https://github-readme-stats.vercel.app/api/pin/?username=LolgamerHDDE&repo=Community-Templates)](https://github.com/LolgamerHDDE/Community-Templates)  
-[![SyncWide Configurator](https://github-readme-stats.vercel.app/api/pin/?username=LolgamerHDDE&repo=SyncWide-Configurator)](https://github.com/LolgamerHDDE/SyncWide-Configurator)  
+[![SyncWide Configurator](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=SyncWide-Configurator)](https://github.com/SyncWide-Solutions/SyncWide-Configurator)  
+[![Community Templates](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=Community-Templates)](https://github.com/SyncWide-Solutions/Community-Templates)    
 
 ---
 
