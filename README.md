@@ -8,13 +8,14 @@ Welcome to my GitHub profile! I’m **LolgamerHD** 🎮, a passionate developer 
 
 - 🔭 I’m currently working on:  
   - **SyncWide Configurator**: Simplifying server setups.  
-  - **Community Templates**: Sharing tools for infrastructure management.  
+  - **24fire CLI**: Getting Information from the 24fire API directly from the Command Line.
+  - **SyncWide OS**: Efficient and easy to use Server OS.
 
 - 🌱 I’m currently learning:  
-  - Advanced Python programming and server automation tools.  
+  - OS Development and C.  
 
 - 👯 I’m looking to collaborate on:  
-  - Open-source Python or server-management projects.  
+  - OS Development.  
 
 - 💬 Ask me about:  
   - Server configurations, automation scripts, or programming in general!  
@@ -31,27 +32,27 @@ Welcome to my GitHub profile! I’m **LolgamerHD** 🎮, a passionate developer 
 
 Here are some projects I’m proud of (click the images to explore!):  
 
-[![SyncWide Configurator](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=SyncWide-Configurator)](https://github.com/SyncWide-Solutions/SyncWide-Configurator) [![Community Templates](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=Community-Templates)](https://github.com/SyncWide-Solutions/Community-Templates)    
+[![SyncWide Configurator](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=SyncWide-Configurator)](https://github.com/SyncWide-Solutions/SyncWide-Configurator) [![24fire CLI Tool](https://github-readme-stats.vercel.app/api/pin/?username=SyncWide-Solutions&repo=24fire-api-cli)](https://github.com/SyncWide-Solutions/24fire-api-cli)    
 
 ---
 
 ### 🛠️ Skills & Tools  
 
 #### Programming Languages  
-- Python 🐍 | LUA
+- Python 🐍 | LUA | C | ASM
 
 #### Tools & Technologies  
-- Nginx | Apache | Docker | MySQL | PostgreSQL  
+- VS Code | QEMU | Bochs
 
 #### OS & Infrastructure  
-- Ubuntu | Debian | Windows Server  
+- Windows | Linux
 
 ---
 
 ### 🤝 Contributions & Community  
 
 - 🌍 Contributor to open-source initiatives.  
-- 🤝 Looking for collaborations in server management and automation.  
+- 🤝 Looking for collaborations in OS and Python Development.  
 
 ---
 
