@@ -49,6 +49,31 @@ Here are some projects I’m proud of (click the images to explore!):
 
 ---
 
+```mermaid
+timeline
+title My Journey
+9 Years Old
+  : HTML
+  : CSS
+  : Javascript
+10 Years Old
+  : Python
+  : Discord.py
+11 Years Old
+  : Linux
+  : Lua
+  : NodeJS
+13 Years Old
+  : Unity
+  : ASM
+  : C
+  : C#
+14 Years Old
+  : OS Development
+```   
+
+---
+
 ### 🤝 Contributions & Community  
 
 - 🌍 Contributor to open-source initiatives.  
