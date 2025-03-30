@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m **LolgamerHD** 🎮, a passionate developer 
   - OS Development and C.  
 
 - 👯 I’m looking to collaborate on:  
-  - OS Development.  
+  - Python Development.
 
 - 💬 Ask me about:  
   - Server configurations, automation scripts, or programming in general!  
