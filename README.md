@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I’m **LolgamerHD** 🎮, a passionate developer 
 ### 🌟 About Me  
 
 - 🔭 I’m currently working on:  
-  - **SyncWide Configurator**: Simplifying server setups.  
   - **24fire CLI**: Getting Information from the 24fire API directly from the Command Line.
   - **SyncWide OS**: Efficient and easy to use Server OS.
 
@@ -72,6 +71,7 @@ title My Journey
   : C#
 14 Years Old
   : OS Development
+  : CLI App Development
 ```   
 
 ---
