@@ -38,7 +38,7 @@ Here are some projects I’m proud of (click the images to explore!):
 ### 🛠️ Skills & Tools  
 
 #### Programming Languages  
-- Python 🐍 | LUA | C | ASM
+- Python 🐍 | LUA | C | ASM | PHP | HTML | CSS
 
 #### Tools & Technologies  
 - VS Code | QEMU | Bochs
